@@ -3,7 +3,7 @@ This is a simple project to test connection between Golang and PostgreSql databa
 
 ## Usages
 If you want to use this repo in your local machine floww the below instruction.
-- I am using Go version 1.19.4 for this repo make sure you install same version or latest version.
+- I am using [Go](https://go.dev/) version 1.19.4 for this repo make sure you install same version or latest version.
 - I am using [pgx](https://github.com/jackc/pgx) v5 third party package to connect with local postgresql. So if you want to download the package in your local machine you have to type the below command:
 ```bash
 go get github.com/jackc/pgx/v5
